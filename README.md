@@ -1,9 +1,9 @@
 # Donors Choose API Consumer Java App
 Execute jar file as:  
-path/to/jar/file>java -jar DonorsChoose.jar [-args]
+path/to/jar/file>java -jar donorsChoose.jar [-args]
 
 Example: 
-path/to/jar/file>java -jar DonorsChoose.jar -s subject1 1
+path/to/jar/file>java -jar donorsChoose.jar -s subject1 1
 
 Argument   | Description
 -----------|----------------
